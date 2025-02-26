@@ -6,7 +6,7 @@
 
 main:
   - title: "Work in Progress"
-    url: /publications/
+    url: /
 
   #- title: "Talks"
   #  url: /talks/    
@@ -15,7 +15,7 @@ main:
   # url: /teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: /
         
   #- title: "Blog Posts"
   #  url: /year-archive/
