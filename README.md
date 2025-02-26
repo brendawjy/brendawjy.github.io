@@ -1,3 +1,11 @@
+# super brief notes about making small changes. 
+writing this in case i forgot how to update my own website in the future
+1. making changes to homepage
+   --> _pages/about
+2. adding or removing menu
+   --> _data/navigation 
+
+
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
