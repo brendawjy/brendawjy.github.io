@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Brenda Adiwijaya"
+title: 
 author_profile: true
 redirect_from: 
   - /about/
