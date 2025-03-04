@@ -6,7 +6,7 @@ permalink: /wip/
 ---
 <br/>
 
-# Work in Progress </center>
+# Work in Progress 
 - - -
 * Childcare and Social Norms (with Daniela Sonedda, Cristina Elisa Orso, and Matija Kovacic)  
 This work in progress aims to explore how social norms from parental country of birth may impact family childcare decision. We will utilize several waves of European Union Statistics on Income and Living Conditions (EU-SILC) data to perform the empirical analysis. 
