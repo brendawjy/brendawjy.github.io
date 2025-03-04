@@ -2,7 +2,7 @@
 title: 
 layout: single
 classes: wide
-permalink: /Work in Progress/
+permalink: /wip/
 ---
 <br/>
 
