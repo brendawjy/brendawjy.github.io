@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, welcome to my home page!
 
-# About me
+## About me
 I am a PhD candidate in the Department of Economics at University of Insubria, specifically in the Methods and Models for Economic Decisions (MMED) program. My research interest is development economics and focuses on the inequality of opportunity, economics of education, along with their intersection. Currently I am examining the channel between family norms and childcare decision in European setting with EU-SILC data.   
 
 ## Education
