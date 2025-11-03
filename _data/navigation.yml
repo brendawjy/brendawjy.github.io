@@ -12,7 +12,10 @@ main:
     url: /wip/
 
   - title: "CV"
-    url: /files/Adiwijaya_CV_oct24.pdf
+    url: /files/Adiwijaya_CV_oct24.pdf 
+  
+  - title: "Attended Courses and Events"
+    url: /events/
     
   #- title: "Talks"
   #  url: /talks/    
